@@ -1,4 +1,4 @@
-package com.example.pillbox.service;
+package com.example.pillbox;
 
 import com.example.pillbox.dto.PillDTO;
 import com.example.pillbox.entity.PillEntity;
